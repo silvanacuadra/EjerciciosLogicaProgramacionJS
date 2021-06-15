@@ -1,4 +1,4 @@
-// 11) Programar una función que valide si una palabra o frase dada, es un palíndromo(que se lee igual en un sentido que en otro), ej:.mifuncion("Salas") devolverá true.
+// 12) Programar una función que valide si una palabra o frase dada, es un palíndromo(que se lee igual en un sentido que en otro), ej:.mifuncion("Salas") devolverá true.
 
 const palindrome = (string) => {
     // Validaciones
