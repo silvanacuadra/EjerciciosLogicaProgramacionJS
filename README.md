@@ -84,4 +84,23 @@ Ejercicios recopilados del curso de JavaScript del canal de youtube de [JonMirch
 - <b>Ejercicio 25</b> - Programar una función que valide que un texto sea un email válido, ej.: validateMail("jonmircha@gmail.com") devolverá verdadero.
 
 
+- <b>Ejercicio 26</b> - Programar una función que dado un array numérico devuelve otro array con los números elevados al cuadrado, ej.: numeroAlCuadrado([1, 4, 5]) devolverá [1, 16, 25].
+
+
+- <b>Ejercicio 27</b> - Programar una función que dado un array devuelva el número mas alto y el más bajo de dicho array, ej.: numMax_Min([1, 4, 5, 99, -60]) devolverá [99, -60].
+
+
+- <b>Ejercicio 28</b> - Programar una función que dado un array de números devuelva un objeto con 2 arreglos en el primero almacena los números pares y en el segundo los impares, ej.: objetParImpar([1,2,3,4,5,6,7,8,9,0]) devolverá {pares: [2,4,6,8,0], impares: [1,3,5,7,9]}.
+
+
+- <b>Ejercicio 29</b> - Programar una función que dado un arreglo de números devuelva un objeto con dos arreglos, el primero tendrá los numeros ordenados en forma ascendente y el segundo de forma descendiente, pe. ordenarAscendenteDescendente([7, 5,7,8,6]) devolverá { asc: [5,6,7,7,8], desc: [8,7,7,6,5] }.
+
+
+- <b>Ejercicio 30</b> - Programar una función que dado un arreglo de elementos, elimine los duplicados, ej:. removeDuplicate(["x", 10, "x", 2, "10", 10, true, true]) devolverá ["x", 10, 2, "10", true].
+
+
+-  <b>Ejercicio 31</b> - Programar una función que dado un arreglo de números obtenga el promedio, ej:. average([9,8,7,6,5,4,3,2,1,0]) devolverá 4.5.
+
+
+- <b>Ejercicio 32</b> - Programar una clase llamada Pelicula siguiendo las indicaciones definidas en el ejercicio. 
 
