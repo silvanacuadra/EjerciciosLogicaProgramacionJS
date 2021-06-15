@@ -1,3 +1,4 @@
+// 25) Programar una función que valide que un texto sea un email válido, pe. miFuncion("jonmircha@gmail.com") devolverá verdadero.
 
 const validateMail = (email) => {
     if (email === undefined) return console.warn(`No ingresaste una cadena de texto`);
