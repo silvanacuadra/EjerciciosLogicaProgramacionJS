@@ -1,4 +1,3 @@
-
 // 20) Programar una función para convertir números de base binaria a decimal y viceversa, ej:. miFuncion(100,2) devolverá 4 base 10.
 
 const converter = (num = undefined, base = undefined) => {
