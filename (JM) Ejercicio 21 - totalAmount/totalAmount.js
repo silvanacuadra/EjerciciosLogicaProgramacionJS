@@ -1,4 +1,4 @@
-// 16) ----- Programar una función que devuelva el monto final después de aplicar un descuento a una cantidad dada, ej:. miFuncion(1000, 20) devolverá 800.
+// 21) Programar una función que devuelva el monto final después de aplicar un descuento a una cantidad dada, ej:. miFuncion(1000, 20) devolverá 800.
 
 const totalAmount = (price = undefined, discount = 0) => {
     if (price === undefined) return console.warn(`Ingrese un valor para el parámetro precio`);
