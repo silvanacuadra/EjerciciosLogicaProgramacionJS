@@ -104,3 +104,23 @@ Ejercicios recopilados del curso de JavaScript del canal de youtube de [JonMirch
 
 - <b>Ejercicio 32</b> - Programar una clase llamada Pelicula siguiendo las indicaciones definidas en el ejercicio. 
 
+### Otros ejercicios de la WEB
+
+- <b>Ejercicio 33</b> - Programar una función que mueva la primera letra de cada palabra al final de ella y agregue la expresión "ay" al final de la palabra. Ej.: simplePigLatin('Pig latin is cool') retorna igPay atinlay siay oolcay
+
+
+- <b>Ejercicio 34</b> - Programar una función que tome un array y mueva todos los ceros al final, perseverando el orden de los otros elementos.
+
+
+- <b>Ejercicio 35</b> - Programar una función que retorne la suma de los 4 números más grandes de un array, si el array tiene 4 números o menos, retorna la suma de todos.
+
+
+- <b>Ejercicio 36</b> - Programar una función que muestre en pantalla los números del 1 al 100, sustituyendo los múltiplos de 3 por la palabra “fizz”, los múltiplos de 5 por “buzz” y los múltiplos de ambos, es decir, los múltiplos de 3 y 5 (o de 15), por la palabra “fizzbuzz”.
+
+
+- <b>Ejercicio 37</b> - Programar una función que dado un número y un array ordenado determine si el número se encuentra entre la mitad mayor o menor. 
+
+
+
+
+
